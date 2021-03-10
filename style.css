@@ -2,3 +2,8 @@
     padding: 10px, 5px, 10px, 5px;
     margin: 5px, 10px, 5px, 10px;
  }
+@media(max-width:998px) {
+     html {
+         font-size: 55%;
+     }
+ }
